@@ -54,4 +54,24 @@ export const rooms = [
     name: 'Sala Capacitaciones FYO B - PB',
     url: 'https://outlook.office365.com/owa/calendar/17869d0f6152465b99f31bcec1ad7766@fyo.com/719e46a60b484ed584e648a81744cb906175246473441368608/calendar.html' 
   },
+{
+    id: 12,
+    name: 'Sala 1 - Amauta 4to. Piso',
+    url: 'https://outlook.office365.com/owa/calendar/90d7b010b8514f7aab3e169b0adb88c9@amauta.ag/12e8e815f46e486892894a64f36cd73714897254677260354728/calendar.html' 
+  },
+{
+    id: 13,
+    name: 'Box 1 - Amauta 4to. Piso',
+    url: 'https://outlook.office365.com/owa/calendar/9f60abbcf0274f7ea7b31229aa019eba@amauta.ag/4d493749e5bd47b1b3c724ea3b85e3fd15710577801232408385/calendar.html' 
+  },
+{
+    id: 14,
+    name: 'Box 2 - Amauta 4to. Piso',
+    url: 'https://outlook.office365.com/owa/calendar/5ac76160d5fe46219171373cdcac0714@amauta.ag/095b4d81d7644706b220a389603664c215593063557213473496/calendar.html' 
+  },
+{
+    id: 15,
+    name: 'Box 3 - Amauta 4to. Piso',
+    url: 'https://outlook.office365.com/owa/calendar/361eb62820624291a282d90dadb9aa29@amauta.ag/0f05066bbcec444d81df01645c3bf93c15497919309037164073/calendar.html' 
+  },
 ];
