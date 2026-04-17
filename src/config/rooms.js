@@ -61,16 +61,22 @@ export const rooms = [
   },
 {
     id: 13,
+    name: 'Sala 2 - Amauta 4to. Piso',
+    url: 'https://outlook.office365.com/owa/calendar/4b1fea087fb44a1f98583c21b4418556@amauta.ag/58b7ed0fb55f4d4780c275ecbfc4215a106650888553059960/calendar.html' 
+  },
+
+{
+    id: 14,
     name: 'Box 1 - Amauta 4to. Piso',
     url: 'https://outlook.office365.com/owa/calendar/9f60abbcf0274f7ea7b31229aa019eba@amauta.ag/4d493749e5bd47b1b3c724ea3b85e3fd15710577801232408385/calendar.html' 
   },
 {
-    id: 14,
+    id: 15,
     name: 'Box 2 - Amauta 4to. Piso',
     url: 'https://outlook.office365.com/owa/calendar/5ac76160d5fe46219171373cdcac0714@amauta.ag/095b4d81d7644706b220a389603664c215593063557213473496/calendar.html' 
   },
 {
-    id: 15,
+    id: 16,
     name: 'Box 3 - Amauta 4to. Piso',
     url: 'https://outlook.office365.com/owa/calendar/361eb62820624291a282d90dadb9aa29@amauta.ag/0f05066bbcec444d81df01645c3bf93c15497919309037164073/calendar.html' 
   },
